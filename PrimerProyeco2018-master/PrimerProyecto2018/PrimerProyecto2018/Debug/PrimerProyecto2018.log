@@ -1,0 +1,4 @@
+﻿  FormPrincipal.cpp
+c:\users\walte\source\repos\primerproyecto2018\primerproyecto2018\formprincipal.h(2): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Contenedor.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  PrimerProyecto2018.vcxproj -> C:\Users\walte\source\repos\PrimerProyecto2018\Debug\PrimerProyecto2018.exe

@@ -1,0 +1,7 @@
+﻿  Contenedor.cpp
+  FormPrincipal.cpp
+c:\users\leste\downloads\primerproyeco2018-master\primerproyecto2018\primerproyecto2018\formprincipal.h(2): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Generando código...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Contenedor.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  PrimerProyecto2018.vcxproj -> C:\Users\leste\Downloads\PrimerProyeco2018-master\PrimerProyecto2018\x64\Debug\PrimerProyecto2018.exe
